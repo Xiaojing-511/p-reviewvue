@@ -1,2 +1,2 @@
 # p-reviewvue
-熟悉vue elementui vue-cli vscode下git操作  
+复习vue elementui vue-cli vscode下git操作  
